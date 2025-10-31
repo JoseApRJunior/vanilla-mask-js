@@ -1,0 +1,34 @@
+{
+   "name": "vanilla-mask-js",
+   "version": "1.0.0",
+   "description": "Sistema de máscaras para inputs em JavaScript puro, com validação, i18n e acessibilidade.",
+   "main": "src/index.js",
+   "type": "module",
+   "keywords": [
+      "mask",
+      "input",
+      "cpf",
+      "cnpj",
+      "validation",
+      "vanilla",
+      "i18n",
+      "accessibility"
+   ],
+   "author": "Jose Aparecido Ramos Junior",
+   "license": "MIT",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/JoseApRJunior/vanilla-mask-js"
+   },
+   "scripts": {
+      "test": "node tests/vanilla-masks.test.js",
+      "build": "echo 'Build script placeholder'",
+      "minify": "echo 'Minify script placeholder'"
+   },
+   "files": [
+      "src/",
+      "dist/",
+      "README.md",
+      "LICENSE"
+   ]
+}
