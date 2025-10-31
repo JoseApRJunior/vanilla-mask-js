@@ -184,5 +184,5 @@ Inspirado em bibliotecas como jQuery Mask Plugin, VMasker e Cleave.js, mas imple
 
 ---
 
-**Desenvolvido por:** José Aparecido Rodrigues Junior
+**Desenvolvido por:** José Aparecido Ramos Junior
 **Repositório:** [GitHub](https://github.com/JoseApRJunior/vanilla-mask-js)
